@@ -1,0 +1,20 @@
+{
+  "name": "verifyecdsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "js-sha3": "^0.8.0",
+    "secp256k1": "^4.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
